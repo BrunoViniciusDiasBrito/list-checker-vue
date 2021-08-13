@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new Homepage banner",
+      "details": "Lorem Ipsum Dolor amet coloon",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "The email marketing have to be made for increase the chance of the client buy your product",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Make Congrats email",
+      "details": "Lorem Ipsum",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "Create pull funil",
+      "details": "Lorem Ipsum",
+      "complete": true
+    }
+  ]
+}
